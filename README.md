@@ -20,7 +20,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
-### 🚀 Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=1&pause=100000&color=58A6FF&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%9A%80+Sobre+mim" alt="Sobre mim" />
+</p>
 
 - <img src="https://img.shields.io/badge/-Full--stack-3178C6?style=flat-square&logo=react&logoColor=white" height="22"/> Estudante de **Engenharia de Software**, focado em desenvolvimento **Full-stack**
 - <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?style=flat-square&logo=shieldsdotio&logoColor=white" height="22"/> Entusiasta de **Cibersegurança e Redes**
@@ -29,7 +31,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
-### 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=1&pause=100000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnologias+e+Ferramentas" alt="Tecnologias e Ferramentas" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,7 +49,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
-### 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=1&pause=100000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%8A+Estat%C3%ADsticas+do+GitHub" alt="Estatísticas do GitHub" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsamuel2025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />

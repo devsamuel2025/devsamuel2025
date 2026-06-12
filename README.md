@@ -22,10 +22,10 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Estudante de **Engenharia de Software**, focado em desenvolvimento **Full-stack**
-- 🔐 Entusiasta de **Cibersegurança e Redes**
-- 🌱 Sempre construindo projetos novos e evoluindo a cada dia
-- 🤝 Aberto a colaborações e oportunidades na área de tecnologia
+- <img src="https://img.shields.io/badge/-Full--stack-3178C6?style=flat-square&logo=react&logoColor=white" height="22"/> Estudante de **Engenharia de Software**, focado em desenvolvimento **Full-stack**
+- <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?style=flat-square&logo=shieldsdotio&logoColor=white" height="22"/> Entusiasta de **Cibersegurança e Redes**
+- <img src="https://img.shields.io/badge/-Evoluindo-orange?style=flat-square&logo=rocket&logoColor=white" height="22"/> Sempre construindo projetos novos e evoluindo a cada dia
+- <img src="https://img.shields.io/badge/-Open%20to%20Collab-8A2BE2?style=flat-square&logo=github&logoColor=white" height="22"/> Aberto a colaborações e oportunidades na área de tecnologia
 
 ---
 

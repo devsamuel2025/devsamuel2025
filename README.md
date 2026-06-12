@@ -18,7 +18,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
 ### 🚀 Sobre mim
 
@@ -27,7 +27,7 @@
 - <img src="https://img.shields.io/badge/-Evoluindo-orange?style=flat-square&logo=rocket&logoColor=white" height="22"/> Sempre construindo projetos novos e evoluindo a cada dia
 - <img src="https://img.shields.io/badge/-Open%20to%20Collab-8A2BE2?style=flat-square&logo=github&logoColor=white" height="22"/> Aberto a colaborações e oportunidades na área de tecnologia
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
 ### 📊 Estatísticas do GitHub
 
@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuel2025&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsamuel2025&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visitor Badge" />

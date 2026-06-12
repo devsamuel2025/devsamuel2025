@@ -68,5 +68,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1488CC,100:2B32B2&height=3&width=900" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devsamuel2025&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visitor Badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=1&pause=100000&color=58A6FF&center=true&vCenter=true&width=400&height=40&lines=VISITS%3A+" alt="visits label"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=devsamuel2025&style=for-the-badge&color=58A6FF&abbreviated=false&label=" alt="Visitor Count" />
 </p>
